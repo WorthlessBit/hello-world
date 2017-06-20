@@ -1,2 +1,2 @@
 # hello-world
-the first project of many
+the first project of many :)
